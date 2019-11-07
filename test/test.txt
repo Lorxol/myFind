@@ -1,0 +1,11 @@
+
+.
+foo
+foo bar
+foo bar qux
+foo -name bar
+foo -name 'ba?'
+-name testsuite.sh
+. -name testsuite.sh
+-type d
+. -type f

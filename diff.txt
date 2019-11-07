@@ -1,0 +1,13 @@
+0a1
+> myfind: cannot stat branches
+1a3
+> myfind: cannot stat hooks
+12a15
+> myfind: cannot stat info
+13a17,22
+> myfind: cannot stat refs
+> myfind: cannot stat heads
+> myfind: cannot stat tags
+> myfind: cannot stat objects
+> myfind: cannot stat pack
+> myfind: cannot stat info
